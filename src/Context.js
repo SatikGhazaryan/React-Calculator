@@ -1,2 +1,2 @@
 import React from "react";
-export const MyContext = React.createContext(7);
+export const MyContext = React.createContext(0);
